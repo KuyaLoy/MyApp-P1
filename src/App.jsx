@@ -32,7 +32,6 @@ function App() {
   return (
     <div>
       <Header />
-      <Header />
       <main>
         <section id="core-concepts">
           <h2>Core Conceptss</h2>
